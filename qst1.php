@@ -17,7 +17,7 @@
                     <div class="form-group">
                         <label for="exampleInputFullName">Full Name <span style="color:red;">*</span></label>
                         <input type="text" class="form-control" name="name" id="exampleInputFullName" placeholder="Enter FullName...">
-                </div>
+                    </div>
 
                 <div class="form-group">
                         <label for="exampleInputemail">E-mail <span style="color:red;">*</label>
@@ -31,7 +31,6 @@
             </div>
             <div class="col-md-3"></div>
         </div>
-    </div>
     </section>
 </body>
 </html>
